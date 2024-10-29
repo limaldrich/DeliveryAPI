@@ -1,0 +1,10 @@
+{
+  "weight": {
+    "maxWeight": 50.0,
+    "heavyParcelThreshold": 10.0
+  },
+  "volume": {
+    "smallParcelThreshold": 1500.0,
+    "mediumParcelThreshold": 2500.0
+  }
+}
